@@ -1,0 +1,35 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Firebase / Google Services
+google-services.json
+GoogleService-Info.plist
+
+# Environment files
+.env
+*.env
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Mac/Windows/Linux system files
+.DS_Store
+Thumbs.db
+
+# Generated files
+coverage/
+*.iml
+*.log
